@@ -7,7 +7,7 @@
 - 💡 Open to collaborating on interesting open-source projects
 - 📚 Avid reader of tech blogs and programming books
 - 🎯 Goals: Contribute more to the developer community and improve my coding skills
-- 📫 How to reach me: WeChat - pi-pi-miao
+- 📫 How to reach me: WeChat  pi-pi-miao
 - 💬 Let's connect and chat about coding, books, or technology!
 
 <!---
